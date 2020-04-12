@@ -1,4 +1,2 @@
-os
-telegram.ext
-json
+python-telegram-bot
 apiai
